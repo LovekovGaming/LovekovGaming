@@ -1,4 +1,13 @@
-## Hi there 👋
+## Love love 👋
+- 🔭 I’m currently working on **the TokuCraft mod family and related projects**
+- 👯 I’m looking to collaborate on **projects relating to tokusatsu and/or Minecraft**
+- 📫 How to reach me: Join the Kamen Rider Craft Discord server and look for **the_chairman_**
+- 😄 Pronouns: any
+- ⚡ Fun fact: I'm not actually that big a fan of Lovekov. I only got this name because of how often I use the :Lovekov: emoji in the KRC Discord
+
+## Current projects 🔭
+- Kamen Rider Craft Sounds data pack [(download)](https://github.com/LovekovGaming/Kamen-Rider-Craft-Sounds)
+- Super Sentai Craft Sounds data pack [(download)](https://github.com/LovekovGaming/Super-Sentai-Craft-Sounds)
 
 <!--
 **LovekovGaming/LovekovGaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
